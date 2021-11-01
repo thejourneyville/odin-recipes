@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(247, 241, 226);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(182, 30, 0);
+}
+
+ul {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    text-align: left;
+}
+
+p {
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.home-link {
+    text-align: center;
+    font-weight: bolder;
+}
